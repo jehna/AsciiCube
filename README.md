@@ -8,7 +8,8 @@ Lines are drawn with an improved [Bresenham's line algorithm][bresenham]
 
 ## Example
 You can find an example at a local tilde.club server:
-[http://palvelin.club/~jehna/]
+
+http://palvelin.club/~jehna/
 
 Here's an example output of the script:
 <img src="http://i.imgur.com/Z2bHrVi.png" alt="example image">
