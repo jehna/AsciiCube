@@ -21,6 +21,11 @@ Here are a few details:
 - The script is mobile-friendly and runs well with iPhone
 - There's an additional function for creating the attribution link at the end
 
+## Contributions
+Contributions are warmly welcome via pull requests.
+
+Please open an issue beforehand and use feature branches.
+
 ## License
 The work is licensed under MIT license
 
